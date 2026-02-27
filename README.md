@@ -17,14 +17,23 @@ High scalability and optimized performance with reduced time complexity.
 
 ## Requirements
 Operating System: Requires a 64-bit OS (Windows 10/11 or Ubuntu) for compatibility with ML frameworks.
+
 Development Environment: Python 3.8 or later for backend development.
+
 Machine Learning Frameworks: TensorFlow / scikit-learn for model training and prediction tasks.
+
 Natural Language Processing Libraries: NLTK / spaCy for resume parsing, job analysis, and scam detection.
+
 Data Processing Libraries: NumPy and Pandas for structured data handling.
+
 Backend Framework: Flask / FastAPI for deployment and API handling.
+
 Visualization Libraries: Matplotlib / Plotly for interactive skill analytics.
+
 Version Control: Git for collaborative development and version management.
+
 IDE: VSCode for coding, debugging, and integration.
+
 Additional Dependencies: scikit-learn, TensorFlow, NumPy, Pandas, NLTK/spaCy, and required JSON handling libraries.
 
 ## System Architecture
